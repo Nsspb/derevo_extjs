@@ -11,7 +11,7 @@
     xtype: 'app-main',
     items : [
         {
-            xtype: 'k1'
+            xtype: 'test1'
         }
     ]
    
